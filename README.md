@@ -11,18 +11,29 @@
     
 <h2>Bases de dados</h2>
 
-- Arquivo de texto - txt;
-- Conexão com o googleSheets <https://docs.google.com/spreadsheets/d/e/2PACX-1vSi6zD0nOJDf4YVOBQVXuSpAwihl4i5H4vrv7PjM3y0l0M-oHOaWYRrVXrZ1o3TOUFNnzo3sSi9b0Pu/pubhtml>;
+-- Arquivo de texto - txt;
+-- Conexão com o googleSheets <https://docs.google.com/spreadsheets/d/e/2PACX-1vSi6zD0nOJDf4YVOBQVXuSpAwihl4i5H4vrv7PjM3y0l0M-oHOaWYRrVXrZ1o3TOUFNnzo3sSi9b0Pu/pubhtml>;
 
 
 <h2>Aprendizado</h2><br>
-    - Realizar uma conexão com o arquivo do tipo texto;<br>
-    - Realizar uma conexão Web, para se conectar ao Google Sheets;<br>
-    - Realizar uma conexão de um arquivo do Excel;<br>
-    - Fazer uma conexão de uma pasta com vários arquivos do Excel;<br>
-    - A disposição das áreas do Power BI;<br>
-    - A relacionar tabelas;<br>
-    - Remover espaços vazios;<br>
-    - A linguagem DAX;<br>
-    - Adicionar colunas;<br>
-    - Criar medidas;<br>
+-- Conexão a um arquivo CSV;<br>
+-- Conexão a um arquivo Excel;<br>
+-- Conexão Web;<br>
+
+-- O que é o Power Query Editor e a linguagem M;<br>
+-- Como excluir linhas de uma tabela;<br>
+-- Como promover para cabeçalho a primeira linha de uma tabela;<br>
+-- Como extrair valores;<br>
+-- Como mesclar consultas e expandir seus valores;<br>
+-- Como substituir valores em uma tabela;<br>
+-- Como adicionar colunas através da coluna de exemplos;<br>
+-- Como adicionar colunas através da coluna personalizada;<br>
+
+-- o que é o Power Query Editor e a linguagem M;<br>
+-- como excluir linhas de uma tabela;<br>
+-- como promover para cabeçalho a primeira linha de uma tabela;<br>
+-- como extrair valores;<br>
+-- como mesclar consultas e expandir seus valores;<br>
+-- como substituir valores em uma tabela;<br>
+-- como adicionar colunas através da coluna de exemplos;<br>
+-- como adicionar colunas através da coluna personalizada;<br>
