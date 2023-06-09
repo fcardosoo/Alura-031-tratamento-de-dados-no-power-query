@@ -29,11 +29,17 @@
 -- Como adicionar colunas através da coluna de exemplos;<br>
 -- Como adicionar colunas através da coluna personalizada;<br>
 
--- o que é o Power Query Editor e a linguagem M;<br>
--- como excluir linhas de uma tabela;<br>
--- como promover para cabeçalho a primeira linha de uma tabela;<br>
--- como extrair valores;<br>
--- como mesclar consultas e expandir seus valores;<br>
--- como substituir valores em uma tabela;<br>
--- como adicionar colunas através da coluna de exemplos;<br>
--- como adicionar colunas através da coluna personalizada;<br>
+-- O que é o Power Query Editor e a linguagem M;<br>
+-- Como excluir linhas de uma tabela;<br>
+-- Como promover para cabeçalho a primeira linha de uma tabela;<br>
+-- Como extrair valores;<br>
+-- Como mesclar consultas e expandir seus valores;<br>
+-- Como substituir valores em uma tabela;<br>
+-- Como adicionar colunas através da coluna de exemplos;<br>
+-- Como adicionar colunas através da coluna personalizada;<br>
+
+-- Como transpor tabelas;<br>
+-- Como colocar a primeira letra de cada palavra como maiúscula;<br>
+-- Como criar um parâmetro;<br>
+-- Como “tipar” os dados;<br>
+-- Como remover a tipagem automática;<br>
