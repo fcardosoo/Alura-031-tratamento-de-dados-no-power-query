@@ -19,7 +19,6 @@
 -- Conexão a um arquivo CSV;<br>
 -- Conexão a um arquivo Excel;<br>
 -- Conexão Web;<br>
-
 -- O que é o Power Query Editor e a linguagem M;<br>
 -- Como excluir linhas de uma tabela;<br>
 -- Como promover para cabeçalho a primeira linha de uma tabela;<br>
@@ -28,7 +27,6 @@
 -- Como substituir valores em uma tabela;<br>
 -- Como adicionar colunas através da coluna de exemplos;<br>
 -- Como adicionar colunas através da coluna personalizada;<br>
-
 -- O que é o Power Query Editor e a linguagem M;<br>
 -- Como excluir linhas de uma tabela;<br>
 -- Como promover para cabeçalho a primeira linha de uma tabela;<br>
@@ -37,13 +35,11 @@
 -- Como substituir valores em uma tabela;<br>
 -- Como adicionar colunas através da coluna de exemplos;<br>
 -- Como adicionar colunas através da coluna personalizada;<br>
-
 -- Como transpor tabelas;<br>
 -- Como colocar a primeira letra de cada palavra como maiúscula;<br>
 -- Como criar um parâmetro;<br>
 -- Como “tipar” os dados;<br>
 -- Como remover a tipagem automática;<br>
-
 -- Como renomear colunas e tabelas;<br>
 -- Como excluir colunas;<br>
 -- Como utilizar o editor avançado;<br>
@@ -51,4 +47,12 @@
 -- Como excluir etapas;<br>
 -- Como descrever etapas;<br>
 -- A importância da organização e transparência das etapas aplicadas;<br>
-
+-- Relacionamento entre tabelas;<br>
+-- Como criar a visualização de cartão;<br>
+-- Como criar um gráfico de colunas clusterizado;<br>
+-- Como criar um gráfico de linhas;<br>
+-- Como criar um gráfico de barras clusterizado;<br>
+-- Como criar uma caixa de texto;<br>
+-- Como adicionar imagens;<br>
+-- Como criar um layout móvel;<br>
+-- Como publicar na web;<br>
