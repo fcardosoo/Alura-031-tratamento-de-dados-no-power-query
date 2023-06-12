@@ -43,3 +43,12 @@
 -- Como criar um parâmetro;<br>
 -- Como “tipar” os dados;<br>
 -- Como remover a tipagem automática;<br>
+
+-- Como renomear colunas e tabelas;<br>
+-- Como excluir colunas;<br>
+-- Como utilizar o editor avançado;<br>
+-- Como renomear etapas;<br>
+-- Como excluir etapas;<br>
+-- Como descrever etapas;<br>
+-- A importância da organização e transparência das etapas aplicadas;<br>
+
